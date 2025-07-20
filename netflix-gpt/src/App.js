@@ -1,14 +1,8 @@
 function App() {
   return (
-    <div className="App">
-   // ✅ CORRECT - for Tailwind CSS v4+
-module.exports = {
-  plugins: {
-    '@tailwindcss/postcss': {},
-    autoprefixer: {},
-  },
-};
-    </div>
+      <div className="text-3xl font-bold underline text-blue-500">
+        Hello Tailwind!
+      </div>
   );
 }
 
