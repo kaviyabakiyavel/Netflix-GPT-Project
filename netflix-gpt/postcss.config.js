@@ -1,4 +1,4 @@
-// ✅ CORRECT - for Tailwind CSS v4+
+// postcss.config.js
 module.exports = {
   plugins: {
     '@tailwindcss/postcss': {},
