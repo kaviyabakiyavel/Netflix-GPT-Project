@@ -5,7 +5,8 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  //checking the issues in the app - renderin all the api calls twice in dev mode
+  //<React.StrictMode>
     <App />
-  </React.StrictMode>
+ // </React.StrictMode>
 );
