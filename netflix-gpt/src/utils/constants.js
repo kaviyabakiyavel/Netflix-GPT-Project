@@ -13,3 +13,5 @@ export const NetflixLogo =
         Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkOTJiZmJkMzEzMDI1NTA5NTdkNWIxYTkxMTkzYjEyNyIsIm5iZiI6MTc1NzAzNDQ3OS44MzM5OTk5LCJzdWIiOiI2OGJhMzdlZjM0OTMzMzVkYWExZjQzZmQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.HbJXgi6M_P7Bv-R09Nu_Nxhj4lumaxv-XU0MEyYbi_4'
     },
    };
+
+   export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w200/"
